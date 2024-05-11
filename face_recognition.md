@@ -12,13 +12,13 @@
 
 ####  stm32主控和用到的外设资源
 
-<img src="face_recognition.assets/image-20240511145103730.png" alt="image-20240511145103730" style="zoom:80%;" />
+<img src="face_recognition.assets/image-20240511145103730.png" alt="image-20240511145103730" style="zoom:60%;" />
 
 
 
 #### stm32主程序流程图
 
-<img src="face_recognition.assets/image-20240511145409030-1715444232836-8.png" alt="image-20240511145409030" style="zoom:80%;" />
+<img src="face_recognition.assets/image-20240511145409030-1715444232836-8.png" alt="image-20240511145409030" style="zoom:60%;" />
 
 
 
