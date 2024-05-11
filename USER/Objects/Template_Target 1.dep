@@ -1,0 +1,2 @@
+Dependencies for Project 'Template', Target 'Target 1': (DO NOT MODIFY !)
+F (.\main.c)(0x5B8500C2)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections-I C:\Users\DELL\Desktop\新建文件夹\32小车\USER\RTE-I D:\MDK5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-I D:\MDK5\ARM\CMSIS\Include-D__UVISION_VERSION="514" -DSTM32F10X_HD-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)

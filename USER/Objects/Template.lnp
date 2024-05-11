@@ -1,0 +1,6 @@
+--cpu Cortex-M3
+".\objects\main.o"
+--strict --scatter ".\Objects\Template.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\Template.map" -o .\Objects\Template.axf
