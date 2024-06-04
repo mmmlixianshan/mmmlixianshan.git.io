@@ -50,7 +50,6 @@
 
 ##### 使用dlib库检测到人脸
 
-<img src="face_recognition.assets/image-20240511145942035.png" alt="image-20240511145942035" style="zoom:50%;" />
 
 ##### 采集保存用户人脸图片
 
@@ -58,13 +57,12 @@
 
 ##### 提取人脸特征
 
-<img src="face_recognition.assets/image-20240511150006604.png" alt="image-20240511150006604" style="zoom:50%;" />
+
 
 
 
 ##### 人脸实时识别
 
-<img src="face_recognition.assets/image-20240511150056805.png" alt="image-20240511150056805" style="zoom:50%;" />
 
 
 
@@ -72,7 +70,6 @@
 
 
 
-<img src="face_recognition.assets/image-20240511150214454.png" alt="image-20240511150214454" style="zoom:50%;" />
 
 
 
@@ -80,4 +77,3 @@
 
 
 
-<img src="face_recognition.assets/image-20240511150248655.png" style="zoom:50%;" />
